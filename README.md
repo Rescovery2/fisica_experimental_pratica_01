@@ -1,0 +1,2 @@
+# fisica_experimental_pratica_01
+Um programa desenvolvido em Python 3 com o objetivo de tratar estatisticamente dados de medições, bem como suas propagações de erros. Utiliza-se de bibliotecas já bastante conhecidas, como Scipy, pandas, numpy, sympy, matplotlib, entre outras. Mas também contém as bibliotecas statistics e incerteza, criadas pelo próprio autor, e que introduzem novos objetos à linguagem, como o objeto "Erro", que carrega um conjunto de operações bem definidas com a finalidade de tratar, com mais facilidade, a propagação de incertezas durante cálculos.
